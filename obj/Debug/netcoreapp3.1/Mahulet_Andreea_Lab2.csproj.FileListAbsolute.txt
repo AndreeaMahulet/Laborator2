@@ -175,3 +175,9 @@ D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Books\D
 D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Books\Details.cshtml.g.cs
 D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Books\Edit.cshtml.g.cs
 D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Books\Index.cshtml.g.cs
+D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Statistics.cshtml.g.cs
+D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Create.cshtml.g.cs
+D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Delete.cshtml.g.cs
+D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Details.cshtml.g.cs
+D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Edit.cshtml.g.cs
+D:\MASTER\.NET2\Mahulet_Andreea_Lab2\obj\Debug\netcoreapp3.1\Razor\Views\Publishers\Index.cshtml.g.cs
